@@ -12,3 +12,4 @@ To install the required dependencies, run the following command:
 ## Screenshots
 ![Terminal run](https://github.com/raj-chinagundi/cnnscraper/blob/main/cnnscraper.png)
 
+![data](https://github.com/raj-chinagundi/cnnscraper/blob/main/datacnn.png)
