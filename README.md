@@ -8,3 +8,7 @@ To install the required dependencies, run the following command:
 ```pip install -r requirements.txt```
 ## Run the code
 ```python cnnscraper.py```
+
+## Screenshots
+![Terminal run](https://github.com/raj-chinagundi/cnnscraper/blob/main/cnnscraper.png)
+
