@@ -5,7 +5,7 @@ CNN News Scraper is a Python application that allows you to scrape news articles
 
 ## Installation  
 To install the required dependencies, run the following command:  
-```pip install -r requirements.txt```
+```pip install -r requirement.txt```
 ## Run the code
 ```python cnnscraper.py```
 
