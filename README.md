@@ -10,8 +10,7 @@ To install the required dependencies, run the following command:
 ```python cnnscraper.py```
 
 ## Screenshots
-### Terminal Running Process
-![Terminal run](https://github.com/raj-chinagundi/cnnscraper/blob/main/cnnscraper.png)
 
-### Dataset
-![data](https://github.com/raj-chinagundi/cnnscraper/blob/main/datacnn.png)
+![Terminal run](https://github.com/raj-chinagundi/cnnscraper/blob/main/cnnscraper.png)Terminal Running Process
+
+![data](https://github.com/raj-chinagundi/cnnscraper/blob/main/datacnn.png)Dataset
